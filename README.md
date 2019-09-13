@@ -31,3 +31,11 @@ else:
     print('Password length does not match')
     
     ````
+
+# Result
+
+````
+Enter Your Password : test123456
+Validation ok
+
+````
